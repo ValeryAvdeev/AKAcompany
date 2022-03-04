@@ -1,0 +1,10 @@
+.intro__title{
+  font-family: 'Montserrat', "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  color: #FFFFFF;
+  max-width: 829px;
+  /*text-align: center;*/
+}
