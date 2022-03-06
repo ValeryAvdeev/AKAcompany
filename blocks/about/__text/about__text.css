@@ -1,0 +1,10 @@
+.about__text{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color: #999999;
+  max-width: 730px;
+}

@@ -1,4 +1,4 @@
-.intro__title{
+.header__title{
   font-family: 'Montserrat', "Arial", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -6,5 +6,7 @@
   line-height: 64px;
   color: #FFFFFF;
   max-width: 829px;
-  /*text-align: center;*/
+  text-align: center;
+  align-self: center;
+  margin: 0 0 50px 0;
 }
